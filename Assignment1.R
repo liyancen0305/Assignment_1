@@ -1,3 +1,4 @@
+# This is my assignment 1.
 # Importing Data
 myDir <- "C:/Users/Lishuang Cen/Desktop/Intro to Data Science/refine.csv"
 #origDataFile <- file.path(myDir, "refine_original.csv")
